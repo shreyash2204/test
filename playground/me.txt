@@ -1,5 +1,0 @@
-{{#user}
-Name: Shreyash Gupta
-Skills: HTML, CSS, JS, Linux, Python, Mysql, CCNA, Cloud
-Email: gshreyash83@gmail.com
-{{/user}}
